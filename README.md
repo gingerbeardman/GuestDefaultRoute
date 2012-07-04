@@ -2,6 +2,9 @@
 
 Allows a different homepage route for guests.
 
+## Changelog
+1.0.0, initial release
+
 ## Details
 See [http://vanillaforums.org/addon/guestdefaultroute-plugin](http://vanillaforums.org/addon/guestdefaultroute-plugin)
 
